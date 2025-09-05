@@ -26,23 +26,23 @@ SOFTWARE.
 
 ---
 
-## ⚠️ Disclaimer & Warning
+⚠️ DISCLAIMER & WARNING
 
-1. **Trading Risk Warning**  
-   This software is intended for **educational, testing, or simulated trading purposes only**.  
-   Using this software with **real money trading** carries significant financial risk.  
-   The author **assumes no responsibility** for any financial losses, damages, or liabilities.
+1. TRADING RISK WARNING  
+   THIS SOFTWARE IS INTENDED FOR EDUCATIONAL, TESTING, OR SIMULATED TRADING PURPOSES ONLY.  
+   USING THIS SOFTWARE WITH REAL MONEY TRADING CARRIES SIGNIFICANT FINANCIAL RISK.  
+   THE AUTHOR ASSUMES NO RESPONSIBILITY FOR ANY FINANCIAL LOSSES, DAMAGES, OR LIABILITIES.  
 
-2. **Binance Testnet / API Credentials**  
-   Any included API keys (such as Binance Testnet credentials) are for testing only.  
-   Do **not use** in production environments without proper security measures.
+2. BINANCE TESTNET / API CREDENTIALS  
+   ANY INCLUDED API KEYS (SUCH AS BINANCE TESTNET CREDENTIALS) ARE FOR TESTING ONLY.  
+   DO NOT USE IN PRODUCTION ENVIRONMENTS WITHOUT PROPER SECURITY MEASURES.  
 
-3. **Accuracy & Reliability**  
-   While efforts are made to ensure correctness of indicators, models, and backtests,  
-   the results are **not guaranteed**. Always verify predictions independently.
+3. ACCURACY & RELIABILITY  
+   WHILE EFFORTS ARE MADE TO ENSURE CORRECTNESS OF INDICATORS, MODELS, AND BACKTESTS,  
+   THE RESULTS ARE NOT GUARANTEED. ALWAYS VERIFY PREDICTIONS INDEPENDENTLY.  
 
-4. **No Investment Advice**  
-   This software does **not constitute investment advice**. Users trade at their own risk.
+4. NO INVESTMENT ADVICE  
+   THIS SOFTWARE DOES NOT CONSTITUTE INVESTMENT ADVICE. USERS TRADE AT THEIR OWN RISK.  
 
 ---
 

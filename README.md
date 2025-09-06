@@ -73,11 +73,11 @@ TradeForge is an all-in-one Python-based trading platform that combines real-tim
 7. Live charts auto-refresh with updated data and predictions.  
 8. Strategy parameters and auto-trading status can be configured in Settings.  
 
-## 👤 Contributor
+## Contributor
 
 - **Amil Gauri** —  Contributor, Developer, Maintainer  
 
-## 📄 License
+## License
 
 This project is open-source under the **MIT License**.  
 
